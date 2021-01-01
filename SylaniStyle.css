@@ -1,0 +1,271 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7f8fa;
+}
+a{
+    text-decoration: none;
+
+}
+ul li{
+    list-style: none;
+}
+.topnavbar{
+    background-color: #316dc3;
+    padding: 15px;
+    color: #f7f8fa;
+}
+.icons i {
+    margin: 0 10px;
+    float: left;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.topnavbarpara{
+   float: left;
+   margin-left: 105px;
+}
+.topnavbarbutton{
+    float: right;
+    margin-right: 40px;
+    cursor: pointer;
+    
+}
+.button1{
+    border: 1px #f7f8fa ;
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 0 3px;
+  
+}
+.button2{
+    border: 1px #f7f8fa ;
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 0 3px;
+}
+.button3{
+    border: 1px white ;
+    font-weight: bold;
+    border-radius: 3px;
+    padding: 5px;
+    margin: 0 3px;
+
+}
+.logo{
+    float: left;
+    margin: 15px;
+    margin-left: -5px;
+}
+
+.menubar{
+    float:right;
+    margin: 0 105px;
+    color: #666666;
+   
+}
+.menubar li{
+    float: left;
+    margin: 20px 7px;
+    padding: 5px;
+    font-weight: bold;
+    
+    background-color: #f7f8fa;
+    border-radius: 3px;
+}
+.menubar li:hover{
+    background-color: #316dc3;
+    color: white;
+}
+li.home1{
+    background-color: #316dc3;
+    border-radius: 10px;
+    color:  #f7f8fa ;
+     
+}
+.slider img{
+    width: 100%;
+}
+
+.para {
+    background-color: #316dc3;
+    
+}
+.para p{
+    font-weight: bold;
+    color: white;
+    padding: 5px;
+}
+.intro{
+    padding: 40px;
+}
+.intro h1{
+    text-align: center;
+    color: #316dc3;
+    
+}
+.intro span{
+    color: yellowgreen;
+}
+.smallicon{
+    display: inline-block;
+    margin: 0 550px;
+}
+.desh1{
+    float: left;
+    margin-left: 630px;
+    margin: 5px 2px;
+    color:  yellowgreen;
+    font-weight: bold;
+}
+.introicon{
+    float: left;
+    margin: 0 2px;
+    
+}
+.desh2{
+    float: right;
+    margin: -30px 65px;
+    color: yellowgreen;
+    font-weight: bold;
+    
+}
+.paragraph{
+    text-align: justify;
+    color: #666666;
+    line-height: 1.9;
+
+}
+.clear{
+    clear: both;
+}
+.totalcounter{
+    display: flex;
+   justify-content: space-between;
+   padding: 50px;
+   flex-wrap: wrap;
+}
+.totalcounter span{
+    color: yellowgreen;
+}
+.counters{
+    background-color:#316dc3 ;
+    display: flex;
+}
+.counters1{
+    line-height: 2em;
+}
+.counters1 img{
+    width: 30px;
+    margin-left: 70px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.counters1 h1{
+    margin-left:40px ;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: whitesmoke;
+    font-style: 500;
+}
+.counters1 p{
+    
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: whitesmoke;
+    
+}
+.counters2{
+    line-height: 2em;
+}
+.counters2 img{
+    width: 30px;
+    margin-left: 70px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.counters2 h1{
+    margin-left:40px ;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: whitesmoke;
+    font-style: 500;
+}
+.counters2 p{
+    
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: whitesmoke;
+    
+}
+.counters3{
+    line-height: 2em;
+}
+.counters3 img{
+    width: 30px;
+    margin-left: 70px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.counters3 h1{
+    margin-left:40px ;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: whitesmoke;
+    font-style: 500;
+}
+.counters3 p{
+    
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: whitesmoke;
+    
+}
+.counters4{
+    line-height: 2em;
+}
+.counters4 img{
+    width: 30px;
+    margin-left: 70px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.counters4 h1{
+    margin-left:40px ;
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: whitesmoke;
+    font-style: 500;
+}
+.counters4 p{
+    
+    letter-spacing: 1px;
+    font-weight: bold;
+    color: whitesmoke;
+    
+}
+.centerheading{
+    display: flex;
+    justify-content: center;
+    text-transform: capitalize;
+    padding: 75px;
+    color: #316dc3;
+    font-weight: bold;
+}
+.centerheading span{
+color: yellowgreen;
+}
+.smallicon2{
+    display: flex;
+    justify-content: center;
+    margin-top: -50px;
+    color: yellowgreen;
+    font-weight: bold;
+}
